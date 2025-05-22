@@ -1,0 +1,41 @@
+# === Unity Standard Ignores ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider / VS Code
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+
+# OS Generated
+.DS_Store
+Thumbs.db
+
+# Firebase native plugin binaries (re-import via .unitypackage instead)
+/Assets/ExternalDependencyManager/
+/Assets/Firebase/Plugins/**/*.bundle
+/Assets/Firebase/Plugins/**/*.so
+/Assets/Firebase/Plugins/**/*.jar

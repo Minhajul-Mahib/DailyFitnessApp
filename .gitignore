@@ -1,0 +1,14 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+/Assets/ExternalDependencyManager/
+/Assets/Firebase/Plugins/**
+
+# keep all your source:
+!/Assets/Scenes/
+!/Assets/Scripts/
+!/Assets/Prefabs/
+!/Assets/Images/
+!/ProjectSettings/
