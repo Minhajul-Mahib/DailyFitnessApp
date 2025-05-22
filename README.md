@@ -2,6 +2,9 @@
 
 A simple Unity-based mobile app that delivers a new fitness challenge every day, lets users mark completion, track their 10-day streak, and receive daily reminders.
 
+## Contributors
+- Minhajul Mahib
+- Faysal Mahamud
 
 ## 🔗 Live Prototype & Demo Video
 
